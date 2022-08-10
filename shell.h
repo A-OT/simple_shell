@@ -88,8 +88,6 @@ int exit_hist(void);
 int _printenv(void);
 int _putchar(char c);
 
-
-
 /*from help.c*/
 int help(char *cmd);
 
@@ -100,6 +98,5 @@ void exitcleanup(char **av);
 int _atoi(char *s);
 
 char *_getpid(void);
-
 
 #endif
