@@ -1,7 +1,10 @@
-# Simple Shell Project
+# Simple Shell Project :shell:
 
-**A simple Unix command line interpreter**
-<!-- ![shell](/shell.png) -->
+<p align="center">
+   <code><img height="200" src="https://miro.medium.com/max/1400/1*ASZ_4A1XGQ5Z9quQL-8wCQ.png"></code>
+</p>
+
+A simple UNIX command interpreter written as part of the low-level programming and algorithm.
 
 ****
 ## Table of contents
