@@ -40,7 +40,4 @@ int _atoi(char *s)
 		i--;
 		check_num--;
 	}
-	if (neg % 2 != 0)
-		sum = sum * -1;
-	return (sum);
-}
+	
