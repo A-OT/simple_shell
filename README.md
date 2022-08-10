@@ -107,7 +107,7 @@ It is created using the **C programming Language** and it can do many functional
 You can try our shell by following these steps:
 > **Step 1:** Clone our repository using this command, (you need to have git installed on your machine first)
 ````
-git clone https://github.com/tecnophille/simple_shell
+git clone https://github.com/A-OT/simple_shell
 ````
 > **Step 2:** Change directory to simple_shell:
 ````
