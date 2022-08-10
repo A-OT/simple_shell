@@ -153,13 +153,7 @@ total 52
 #cisfun$ exit
 ubunto@ubuntu:~/OS/simple_shell$
 ````
-## Bugs
-No known Bugs.
+## Team :black_nib:
 
-## TEAM
-[GitHub/jane]: <https://github.com/jayne-0>
-[GitHub/mariem]: <https://github.com/tecnophille>
-[Twitter/janeizzy240]: <https://twitter.com/janeizzy240>
-[Twitter/Tecnophille]: <https://twitter.com/tecnophille>
-
-
+* Timileyin Abe <[A-OT](https://github.com/A-OT)>
+* Ajani Abdulhameed <[Elhameed](https://github.com/Elhameed)>
