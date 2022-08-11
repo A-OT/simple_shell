@@ -153,7 +153,7 @@ total 52
 #cisfun$ exit
 ubunto@ubuntu:~/OS/simple_shell$
 ````
-## Team :black_nib:
+## Team Members :black_nib:
 
 * Timileyin Abe <[A-OT](https://github.com/A-OT)>
 * Ajani Abdulhameed <[Elhameed](https://github.com/Elhameed)>
