@@ -157,3 +157,13 @@ ubunto@ubuntu:~/OS/simple_shell$
 
 * Timileyin Abe <[A-OT](https://github.com/A-OT)>
 * Ajani Abdulhameed <[Elhameed](https://github.com/Elhameed)>
+
+## Acknowledgements :pray:
+
+**Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
+
+This project was written as part of the curriculum for ALX in Collaboration with Holberton school. The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.  For more information, visit [this link](https://www.alxafrica.com/software-engineering-2022/).
+
+<p align="center">
+  <img src="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX|Holberton School logo">
+</p>
